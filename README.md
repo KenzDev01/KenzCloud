@@ -1,4 +1,4 @@
-# Nuxt Example
+# KenzCloud Example
 
 Deploy your [Nuxt](https://Kenz.com) project to Vercel with zero configuration.
 
