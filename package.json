@@ -2,11 +2,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "build": "Kenzz build",
+    "dev": "Kenzz dev",
+    "generate": "Kenzz generate",
+    "preview": "Kenzz preview",
+    "postinstall": "Kenzz prepare"
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.0.3",
